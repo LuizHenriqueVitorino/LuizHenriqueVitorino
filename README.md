@@ -1,8 +1,7 @@
 <p align="center">
-  <h2 align="center">Olá! Sou o Luiz Henrique</h2>
+  <h2 align="center" style="font-size: 40px">Olá! Sou o Luiz Henrique</h2>
 </p>
 
-##
 
 <div align="center">
   <a href="https://github.com/LuizHenriqueVitorino">
