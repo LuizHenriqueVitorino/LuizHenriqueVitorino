@@ -1,4 +1,4 @@
-# Olá Sou o Luiz Henrique!
+# Olá! Sou o Luiz Henrique!
 
 
 <div align="center">
