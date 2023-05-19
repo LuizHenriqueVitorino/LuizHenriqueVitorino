@@ -1,5 +1,4 @@
-# Olá! Sou o Luiz Henrique!
-
+![Luiz Henrique](/capaLuizHenriqueVitorino.png)
 
 <div align="center">
   <a href="https://github.com/LuizHenriqueVitorino">
