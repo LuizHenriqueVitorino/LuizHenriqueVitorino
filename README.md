@@ -19,10 +19,10 @@
 ##
   
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/luiz-henrique-da-silva-vitorino-00bb1257/" target="_blank"><img height="28" width="125" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:dev.luiz.vitorino@gmail.com" target="_blank"><img height="28" width="125" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/LuizHenriqueVitorino/" target="_blank"><img height="28" width="125" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/luizhenriquevitorino/" target="_blank"><img height="28" width="125" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-henrique-da-silva-vitorino-00bb1257/" target="_blank"><img height="28" src="https://img.shields.io/badge/Luiz Henrique-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:dev.luiz.vitorino@gmail.com" target="_blank"><img height="28" src="https://img.shields.io/badge/-dev.luiz.vitorino-FF3333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/LuizHenriqueVitorino/" target="_blank"><img height="28" src="https://img.shields.io/badge/LuizHenriqueVitorino-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/luizhenriquevitorino/" target="_blank"><img height="28" src="https://img.shields.io/badge/@luizhenriquevitorino-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 <!--
 **LuizHenriqueVitorino/LuizHenriqueVitorino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
