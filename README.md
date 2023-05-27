@@ -1,4 +1,4 @@
-![Luiz Henrique](/capaLuizHenriqueVitorino.png)
+![Luiz Henrique](/capaLH.png)
 
 <div align="center">
   <a href="https://github.com/LuizHenriqueVitorino">
