@@ -1,11 +1,15 @@
 ![Luiz Henrique](/capaLH.png)
 
+<!--
+
 <div align="center">
   <a href="https://github.com/LuizHenriqueVitorino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHenriqueVitorino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br&custom_title=LUIZ+HENRIQUE"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenriqueVitorino&layout=compact&langs_count=7&theme=algolia&locale=pt-br"/>
 </div>
-  
+
+-->
+
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
